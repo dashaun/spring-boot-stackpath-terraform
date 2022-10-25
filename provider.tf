@@ -1,0 +1,3 @@
+provider "stackpath" {
+  # Configuration options
+}
