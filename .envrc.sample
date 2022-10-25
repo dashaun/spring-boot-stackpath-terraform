@@ -1,4 +1,4 @@
 # For use with direnv
-export STACKPATH_STACK_ID=stacks -> My Default Stack -> SLUG
+export STACKPATH_STACK_ID=
 export STACKPATH_CLIENT_ID=
 export STACKPATH_CLIENT_SECRET=
